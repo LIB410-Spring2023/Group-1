@@ -1,7 +1,8 @@
 field,display_name,browse_link,external_link
 title,Title,,
 creator,Creator,,
-date,Date Created,,
+date,Timeline,,
+datecreated,Date Created,,
 description,Description,,
 subject,Subjects,true,
 location,Location,,
@@ -13,3 +14,6 @@ type,Type,,
 format,Format,,
 rights,Rights,,
 rightsstatement,Rights Statement,,true
+creativecommons,Creative Commons,,
+citation,Citation,,
+archivedpage,Archived Page,,true
