@@ -10,7 +10,7 @@ credits: true
 
 
 
-{% include feature/jumbotron.html objectid="https://lib410-spring2023.github.io/group-1/objects/cavejunction_oregoncavesghostchamber_1889.jpg" %}
+{% include feature/jumbotron.html objectid="https://lib410-spring2023.github.io/group-1/objects/waldport_highway101_1967.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Collection;" %}
 
