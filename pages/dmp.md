@@ -16,95 +16,89 @@ Metadata: https://github.com/LIB410-Spring2023/group-1/blob/main/_data/group-met
 
 Objects: https://github.com/LIB410-Spring2023/group-1/tree/main/objects  
 
-The *Haunted Locations in Oregon* digital collection is a survey of reportedly haunted locations in Oregon, consisting mostly of photographs of historic buildings and cemeteries. The collection consists of 21 images from several regions in Oregon, ranging from 1855 to 1977, including the Willamette Valley, the coast, and Southern Oregon.  
+The *Haunted Locations in Oregon* digital collection documents haunted locations in Oregon and contains 21 images of Oregon ranging from 1855 to 1977. Locations document Willamette Valley, Southern Oregon, and natural locations that illustrate historic buildings, cemeteries, and other natural landmarks.  
 
-The objects were gathered from three public digital repositories: Oregon Digital, the National Archives, and the Library of Congress. Data elements include specific information about image location, approximate year of creation, source of objects, rights information, and archived page links. The image files were uploaded to a GitHub repository and shared on CollectionBuilder, an open-source tool for creating digital exhibits. The accompanying metadata was uploaded as a .csv to the same repository and referenced in an .xml file to connect it to the objects. This documentation was also uploaded to GitHub using .xml, which displays an accessible format on the CollectionBuilder site. By using only open-source tools, the collection is freely available for viewing by the public. 
+Objects were gathered from three public repositories: Oregon Digital, the National Archives, and the Library of Congress. Elements include location information, year of creation, rights, and archival links. Image files were uploaded to a GitHub repository and shared on CollectionBuilder. The metadata .csv was uploaded and an .xml file referenced the objects. The file was uploaded using markup. The collection uses open-source tools and is freely available to the public. 
 
 ## Data Curation Methodology 
 
-As we began collecting data for our digital collection, we first collected stories and reports of hauntings. As research progressed, we realized there was minimal documentation suitable for our project. Instead, we looked for images of haunted locations and uncovered images of numerous haunted locations. We saved the images to our individual Dropbox and documented the metadata in our separate spreadsheets. After we uploaded our objects and their metadata to SharePoint, we created a folder for our images and a metadata spreadsheet. We continued to maintain and update the images and spreadsheets in our Dropbox and created backup copies. 
+To create our collection of objects, we searched archival databases for images of haunted locations. We saved the images to our individual Dropbox and documented the metadata in our separate spreadsheets. After we uploaded our objects and their metadata to SharePoint, we created a folder for our images and a metadata spreadsheet. We continued to maintain and update the images and spreadsheets in our Dropbox and created backup copies.
 
-To prepare our objects for our digital collections, we separated our objects from the group a second time. Each group member was responsible for approximately five objects and kept them in our individual Dropbox with our metadata spreadsheets. After we standardized our spreadsheets and objects to fit our Metadata Application Profile (MAP), we split into pairs and peer-reviewed the other’s data. Using this method, we identified mistakes in our group members’ workflow. Once reviewed, we combined our data into a single spreadsheet and were able to create a .csv file and import it to GitHub. We imported our data to GitHub as a group but were individually responsible for uploading our separate images. 
+To prepare our objects for our digital collections, we separated our objects from the group a second time. Each group member was responsible for certain objects and kept them in our own Dropbox with our own metadata spreadsheets. After we standardized our spreadsheets and objects to fit our Metadata Application Profile (MAP), we split into pairs and peer-reviewed the other’s data. Using this method, we identified mistakes in our group members’ workflow. Once reviewed, we combined our data into a single spreadsheet and were able to create a .csv file and import it to GitHub as a group. Each of us imported the objects we were responsible for. 
 
-To ensure a timely technical delivery, we adhered to the timetable outlined in the class’s Group Profile Milestones document. Each weekly meeting, we went over the milestones outlined in the document and assessed finished tasks and upcoming deadlines. This process enabled us to develop and maintain a steady, progressive workflow, and we met all our deadlines to ensure our site was active and functional for our June 5th presentation. 
+To ensure a timely technical delivery, we adhered to the timetable outlined in the class’s Group Profile Milestones document. Each weekly meeting, we went over the milestones outlined in the document and assessed finished tasks and upcoming deadlines. This process enabled us to develop and maintain a steady, progressive workflow, and we met all our deadlines to ensure our site was active and functional for our June 5th presentation.  
 
 ## Technical Team and Expertise 
 
-Individual research team roles and responsibilities follow the “Norms & Roles” guideline provided in week one of the project.
+Individual roles and responsibilities followed the “Norms & Roles” guideline provided in week one. 
 
-**Emily**, *the Project Manager*, demonstrated her ability to keep the group on task throughout the course of the project and maintained our communication. As the manager, she coordinated many of the role duties and acted as quality control for the project in general. She delegated the duties of the absent Repository Manager role among the remaining members. During the mid-term and final report phases, she conciliated with group members to assign writing responsibilities, and submitted group assignments on schedule. 
+**Emily**, *the Project Manager*, kept the group on task and maintained our communication. She coordinated role duties, acted as quality control, and divided the Repository Manager role to remaining members. The mid-term and final report writing were divided among the group and assignments submitted on schedule. 
 
-**Jonathan**, *the Collection Development Manager*, selected our 21 objects for review, and cataloged their verified rights and licensing. Our collection description was drafted by Jonathan and finalized for publication. He worked with the Object Preservation Manager to manage formats and converted the files to .jpgs using Photoshop CS for the broadest public utility. Jonathan provided unique insight into potential scenarios we could have encountered in developing our digital collection and its implementation. 
+**Jonathan**, *the Collection Development Manager*, selected our 21 objects and verified rights and licensing. He drafted our collection description and finalized it for publication. He worked with Olivia to convert file formats to .jpgs with Photoshop CS for broad utility. Jonathan provided insight into problematic scenarios of our digital collection and its implementation. 
 
-**Olivia**, *the Object Preservation Manager*, assisted in developing our file naming standards, identifying a file preservation format, and organizing our data storage space on SharePoint. She also documented our group meetings, noting how assignments were delegated and taking detailed notes for later use. Olivia also used CollectionBuilder to make objects follow MAP and format requirements and addressed data consistency. After Jonathan had selected our final objects, she backed them up using cloud storage. 
+**Olivia**, *the Object Preservation Manager*, developed file naming standards, identified a file preservation format, transcribed meeting notes, and organized our SharePoint storage. Olivia used CollectionBuilder to make objects adhere to MAP guidelines and data consistency. After Jonathan had selected our objects, she uploaded them to cloud storage. 
 
-**Matt**, *the Metadata Manager*, coordinated and curated the object collection in the group’s inventory spreadsheet to comply with CollectionBuilder requirements and MAP guidelines. Object descriptions were also reviewed, and latitude and longitude coordinates converted for uniformity. Minor HTML support was supplied for the header image in the CollectionBuilder digital collection. Matt adopted the undefined responsibility of technical edits for the final report to address inconsistencies of writing tenses, clarity, and overall quality control of grammatical redundancies. 
+**Matt**, *the Metadata Manager*, curated the group’s object inventory to comply with CollectionBuilder and MAP guidelines. He reviewed object descriptions and converted coordinates for uniformity. He supplied HTML to the header in the CollectionBuilder collection. Matt was responsible for technical edits of the final report. 
 
-The absent Repository Manager role was divided among the remaining members by the Project Manager. All members collaborated to upload the metadata as an operable .md file for CollectionBuilder. MAP guidelines and file formatting were strictly followed. The task of recording group meetings was assigned to the Object Preservation Manager (see above). 
-
-In general, curated collections require a critical eye. All group members administered high quality control and integrity to manage our digital collection by reviewing each other’s tasks, contributions, and final product of our project. 
+Members collaborated to produce an .md file for CollectionBuilder and strictly followed MAP guidelines and file formatting. They also administered quality control for the collection by reviewing each other’s contributions to our final project. 
 
 ## Standards and Formats 
 
 ### Data Types: 
 
-There are 21 objects in this digital collection. Each object is a .jpg file, chosen for convenient use and viewing on the web, ranging from 60 kilobytes to 5 megabytes. The average file size is 659 kilobytes, and the total data is 13.5 megabytes. Images are scaled to 75, 150, or 300 pixels per inch with a preference for higher resolution if a higher resolution image was available in our sources.  
+There are 21 objects in this digital collection. Each object is a .jpg file, chosen for convenient use and viewing on the web, ranging from 60 kilobytes to 5 megabytes. The average file size is 659 kilobytes, and the total data is 13.5 megabytes. Images are scaled to 75, 150, or 300 pixels per inch with a preference for higher resolution if a higher resolution image was available in our sources.
 
 ### Data Handling: 
 
-Image objects were sourced from Oregon Digital, the National Archives, and the Library of Congress. Once collected, they were converted to .jpg, resized, given new file names according to our MAP guidelines, and given a resource description. All files were hosted on SharePoint and stored in personal Dropbox folders for group access. This allowed group members to prepare specific objects according to their responsibilities. 
+Image objects were sourced from Oregon Digital, the National Archives, and the Library of Congress. Once collected, they were converted to .jpg, resized, given new file names according to our MAP guidelines, and given a resource description. All files were hosted on SharePoint and stored in personal Dropbox folders for group access. This allowed group members to prepare specific objects according to their responsibilities.
 
 ### Folder Structure: 
 
-The chosen objects of our digital collection were compiled into a SharePoint folder and made available to group members. Here is our folder structure: 
+Our collection objects were compiled into SharePoint and available to group members: 
 
-    Group1-Objects: Contains content inventory spreadsheet. 
+    Group1-Objects: The inventory spreadsheet. 
 
-    Object Files: Contains object files converted to .jpg. 
+    Object Files: Contains .jpg objects
 
-    Old Object Files: Contains unconverted object files in case of necessary reconversion. 
+    Old Object Files: Contains outdated files as a backup. 
 
- 	Additionally, each group member was responsible for their own individual objects stored in a personal Dropbox. 
+ 	Each group member was responsible for individual objects in a personal Dropbox. 
 
 ### File Naming Convention: 
 
-File names are structured using a “regionname_title_creationdate” format. For example: “salem_elsinoretheatre_1926”. Our file name structure is defined by: 
+File names have a “regionname_title_creationdate” format.  Definitions:  
 
-    Region Name: City, County, or Region where the image was taken. Most collection objects originate from cities. 
+    Region Name: City, County, or Region of image. Most originate from cities.  
 
-    Title: Briefly describes the file content. 
+    Title: Describes file content.  
 
-    Creation Date: The original date the object was created. The date consists of a single year or a YYYYMMDDD date format. 
+    Creation Date: Object creation date. Displays a single year or a YYYYMMDDD format. 
 
 ## Privacy and Security 
 
 ### Privacy: 
 
-Privacy is an important concern when curating a digital collection. Images, objects, and associated metadata in our project were reviewed using ethical standards to retain privacy of individuals and places. All objects were retrieved from public sources of good report and consisted of objects curated with ethical procedures.  
+Images, objects, and metadata in our project were reviewed using ethical privacy standards. Additionally, objects were retrieved from public sources of good report. Most depicted no individuals, however two images depicted individuals that could be alive: “Merchant Hotel” and “Pittock Mansion”. These images had low dpi, dismissing identification potential.  
 
-Despite presumed quality standards, each object was reviewed and determined to be sound. Most image objects were absent of individuals. Those depicted were of an age that no citizen could be alive today: the “Asahel Bush” image from 1878, “Hollywood Theater” from 1880, and “Oregon Caves” from 1899. Two other images depicted individuals that could be alive and remotely identified: “Merchant Hotel” from 1973 and “Pittock Mansion” from 1970. All depicted individuals were in objects with low dpi, dismissing the possibility of identification; one individual was obscured in the distant background.  
-
-Public and private access to the depicted properties were also examined and noted in the subject metadata. Two suspected private properties were scrutinized, and their commercial nature confirmed no expectation of privacy: “Asahel Bush” and “Pittock Mansion”. The Pittock Mansion was made public in 1965 (Pittock Mansion 2018) and “Asahel Bush” in 1953 (Green 2020). All property metadata was reviewed, and its limited scope precluded a breach of privacy.  
+Private property access was examined and noted in the metadata. Two private properties were scrutinized and had no expectation of privacy: “Asahel Bush” and “Pittock Mansion”. The Pittock Mansion went public in 1965 (Pittock Mansion 2018) and “Asahel Bush” in 1953 (Green 2020). All metadata was limited and precluded a privacy breach.    
 
 ### Security: 
 
-Our various files including objects, the content inventory spreadsheet, meeting notes, and associated project documents had redundant copies in DropBox, SharePoint, personal laptops, and of course, CollectionBuilder, in the event of data loss. All platforms use password protection. 
-
-Ownership rights of the objects were also reviewed to determine permissions. All selected objects qualified for free use under public domain, educational use, or subject to copyrights but are present as a Creative Commons license. 
+Our files include objects, spreadsheet inventory, meeting notes, and project documents with backup copies on DropBox, SharePoint, personal laptops and CollectionBuilder and password protected. Ownership rights were reviewed for permissions. And fell under public domain, educational use, or a Creative Commons license. 
 
 ## Data Preservation/Retention 
 
 ### Period of Data Retention: 
 
-Our digital collection will be made available no later than June 11, 2023, with CollectionBuilder and GitHub. Data will be maintained in our group’s cloud storage on SharePoint and Dropbox until publication. 
+Our digital collection will be made available by June 11, 2023, on CollectionBuilder and GitHub. Data will be maintained in cloud storage on SharePoint and Dropbox.
 
 ### Data Dissemination: 
 
-Objects will be made publicly available on GitHub in the form of .jpg files, along with their accompanying metadata. Links will be provided to source repositories to allow access to archival copies. 
+Objects are publicly available on GitHub as .jpg files, along with the metadata. Links are provided for access to archival copies.
 
 ### Data Storage and Preservation of Access: 
 
-The viewing of objects in .jpg format will be maintained on GitHub, and access to archival copies will be provided through the source repositories at Oregon Digital, the National Archives, and the Library of Congress. In case of changes to source repositories, the Internet Archive Wayback Machine was used to archive the object pages at the time of selection; these links are provided in this collection.
+Objects are viewed as .jpgs and maintained on GitHub, and archival copies provided for Oregon Digital, the National Archives, and the Library of Congress sources. The Archive Wayback Machine was used to archive object sources. Links are provided in the collection. 
 
 ### Appendix A: Metadata Application Profile (Thornhill, et al. 2023) 
 
@@ -187,11 +181,10 @@ The viewing of objects in .jpg format will be maintained on GitHub, and access t
 
 ### Appendix BB: Apparition? 
 
-An incidental observation in one of our objects revealed an anomaly in our “Oregon Caves” object described as the Ghost Chamber. We quickly concluded that an apparition could be the only explanation. Our current hypothesis postulates the unique stereograph photographic process captured a superimposed and bilateral locality. This increased sensitivity to phenomena outside the range of normal or supernormal sensory methods (e.g., sight, hearing, smell) allowed for a special circumstance in which the right technology and right timing recorded this extremely rare event. 
+An incidental observation in one of our objects revealed an anomaly in our “Oregon Caves” object described as the Ghost Chamber. We quickly concluded an apparition could be the only explanation. Our hypothesis postulates the unique stereograph photographic process captured a superimposed bilateral locality. This increased sensitivity to phenomena outside normal or supernormal sensory ranges (e.g., sight, hearing) allowed a special circumstance for the right technology and right timing to record this extremely rare event. 
 
 We are, however, ethically certain the ghost has no expectation of privacy. We present this apparition here, in the name of pseudoscience.  
 
- 
 
 Figure 1: The above image is the result of stereographic photography filtered through multi-aspect and algorithmic methods via computer processes to enhance the image definition. The identity of the person associated with the apparition remains unknown. 
 
