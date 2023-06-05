@@ -53,27 +53,26 @@ There are 21 objects in this digital collection. Each object is a .jpg file, cho
 Image objects were sourced from Oregon Digital, the National Archives, and the Library of Congress. Once collected, they were converted to .jpg, resized, given new file names according to our MAP guidelines, and given a resource description. All files were hosted on SharePoint and stored in personal Dropbox folders for group access. This allowed group members to prepare specific objects according to their responsibilities.
 
 ### Folder Structure: 
-
 Our collection objects were compiled into SharePoint and available to group members: 
 
     1. Group1-Objects: The inventory spreadsheet. 
 
-*          a. Object Files: Contains .jpg objects
+* a. Object Files: Contains .jpg objects
 
-*         b. Old Object Files: Contains outdated files as a backup. 
+* b. Old Object Files: Contains outdated files as a backup. 
 
-Each group member was responsible for individual objects in a personal Dropbox.
+ Each group member was responsible for individual objects in a personal Dropbox.
 
 
 ### File Naming Convention: 
 
 File names have a “regionname_title_creationdate” format.  Definitions:  
 
-*     Region Name: City, County, or Region of image. Most originate from cities.  
+* Region Name: City, County, or Region of image. Most originate from cities.  
 
-*     Title: Describes file content.  
+* Title: Describes file content.  
 
-*     Creation Date: Object creation date. Displays a single year or a YYYYMMDDD format. 
+* Creation Date: Object creation date. Displays a single year or a YYYYMMDDD format. 
 
 ## Privacy and Security 
 
