@@ -38,7 +38,7 @@ Individual roles and responsibilities followed the “Norms & Roles” guideline
 
 **Olivia**, *the Object Preservation Manager*, developed file naming standards, identified a file preservation format, transcribed meeting notes, and organized our SharePoint storage. Olivia used CollectionBuilder to make objects adhere to MAP guidelines and data consistency. After Jonathan had selected our objects, she uploaded them to cloud storage. 
 
-**Matt**, *the Metadata Manager*, curated the group’s object inventory to comply with CollectionBuilder and MAP guidelines. He reviewed object descriptions and converted coordinates for uniformity. He supplied HTML to the header in the CollectionBuilder collection. Matt was responsible for technical edits of the final report. 
+**Matt**, *the Metadata Manager*, curated the group’s object inventory to comply with CollectionBuilder and MAP guidelines. He reviewed object descriptions and converted coordinates for uniformity. He supplied HTML to the header in the CollectionBuilder collection. Matt was responsible for technical edits of the final DPM report. 
 
 Members collaborated to produce an .md file for CollectionBuilder and strictly followed MAP guidelines and file formatting. They also administered quality control for the collection by reviewing each other’s contributions to our final project. 
 
