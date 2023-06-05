@@ -128,3 +128,81 @@ The viewing of objects in .jpg format will be maintained on GitHub, and access t
 |  creativecommons |  Creative Commons License |  Recommended, but could be Required |  Yes | A standardized creative commons license, not a rightsstatement.org rights statement, should be used in this field. The value in your metadata field should be written in HTML where <a href=”URL to Creative Commons license” target=”_blank”>Display Text Name of Creative Commons License</a> For example, type this into a cell: <a href="https://creativecommons.org/publicdomain/mark/1.0/" target="_blank">Public Domain Mark 1.0</a> In CollectionBuilder, it will render on an item page to look like this: Public Domain Mark 1.0  | <a href="https://creativecommons.org/publicdomain/mark/1.0/" target="_blank">Public Domain Mark 1.0</a>  |
 | citation  | Citation  | Required  | No  | A citation representing where you got your object from. Use “Citing Artifacts in a Digital Archive” for citation styling. Make sure to add the URL or DOI for the original source’s online location. The value in your metadata field should be written in HTML where "Title," Creator. Date, Repository, Repository Location. Website Name, Collection Name, <a href='URL to Source Repository' target='_blank'>URL to Source Repository</a> Note: For the citation field, you must use single quotes for the URL and target=’_blank’ because the whole value is enclosed in double quotes to account for the commas. For example, type this into a cell: "Oregon City, Oregon," Carleton E. Watkins. 1837, The New York Public Library Digital Collections, New York. NYPL Digital Collections, Robert N. Dennis Collection of Stereoscopic Views, <a href='https://digitalcollections.nypl.org/items/510d47e2-699a-a3d9-e040-e00a18064a99' target='_blank'>https://digitalcollections.nypl.org/items/510d47e2-699a-a3d9-e040-e00a18064a99</a> In CollectionBuilder, it will render on an item page to look like this: "Oregon City, Oregon," Carleton E. Watkins. 1837, The New York Public Library Digital Collections, New York. NYPL Digital Collections, Robert N. Dennis Collection of Stereoscopic Views, https://digitalcollections.nypl.org/items/510d47e2-699a-a3d9-e040-e00a18064a99 | "Oregon City, Oregon," Carleton E. Watkins. 1837, The New York Public Library Digital Collections, New York. NYPL Digital Collections, Robert N. Dennis Collection of Stereoscopic Views, <a href='https://digitalcollections.nypl.org/items/510d47e2-699a-a3d9-e040-e00a18064a99' target='_blank'>https://digitalcollections.nypl.org/items/510d47e2-699a-a3d9-e040-e00a18064a99</a>  |
 | archivedpage  | Archived Page  | Required  | No  | This field must link to the archival record you’ve made using the Wayback Machine’s Save Page Now feature. You should use the Wayback Machine to archive all item pages in your digital collection. The value in your metadata field should be written in HTML where <a href="URL to the Wayback Machine Page" target="_blank">Archived Page</a> For example, type this into a cell: <a href="https://web.archive.org/web/20230428201917/https://digitalcollections.nypl.org/items/d1bde300-c52e-012f-bd93-58d385a7bc34" target="_blank">Archived Page</a> In CollectionBuilder it will render on an item page to look like this: Archived Page | <a href="https://web.archive.org/web/20230428201917/https://digitalcollections.nypl.org/items/d1bde300-c52e-012f-bd93-58d385a7bc34" target="_blank">Archived Page</a>  |
+
+
+
+#### Controlled Vocabularies 
+| Metadata Element Name | Controlled Vocabularies -  The fields listed below require the use of controlled vocabularies. Use the lists to guide you in the selection of terms that should be applied to each field. |
+|---|---|
+| subject |  Please use your subject vocabulary list with definitions.
+||Art house cinemas - Buildings that house organizations or businesses that present independent films with artistic rather than commercial appeal including foreign or experimental films, or revivals of older releases. http://vocab.getty.edu/page/aat/300412179 |
+||Lighthouses – Towers or other structures equipped with a powerful light or lights (originally a signal fire) at the top, erected at important or dangerous points on or near the coast for the guidance of mariners. http://vocab.getty.edu/page/aat/300007741  |
+||Cemeteries – In general, areas used for burial or entombment. Specifically, typically refers to relatively large public parks or grounds laid out expressly for the interment of the dead, and not being the yard of any church. Originally the term was derived from the Latin "cœmeterium," referring to Roman underground cemeteries or catacombs. http://vocab.getty.edu/page/aat/300266755 |
+||Hotels – Buildings where travellers or tourists are provided with overnight accommodation, meals, and other services; often distinguished from inns and other forms of temporary lodging for travellers by their larger size and range of facilities, in modern times often equipped with a restaurant, bar, conference rooms, and leisure facilities. http://vocab.getty.edu/page/aat/300007166  
+||Forts – Permanent fortifications for troops, often surrounded by such elements as ditches, parapets, and ramparts and often used as advance posts in or near hostile territory. Smaller and less heavily fortified than "fortresses."  http://vocab.getty.edu/page/aat/300006909  
+||Caves – Natural openings in the earth large enough for human exploration, the largest and most common being those formed by a chemical reaction between circulating groundwater and limestone or dolomite bedrock.  http://vocab.getty.edu/page/aat/300008746
+||Mansions – Large imposing, and usually elegant and costly, dwellings. http://vocab.getty.edu/page/aat/300071272  
+||Taverns - Primarily 17th- to early 19th-century English and American places of eating, drinking, and public accommodations, which often became local centers of social gatherings; distinguished from "inns" which emphasize their overnight accommodations and also provide food and drinking facilities; for establishments that emphasize drinking, especially liquors, use "pubs" or "saloons."  http://vocab.getty.edu/page/aat/300005207  
+||Churches - Buildings for public Christian worship that are distinguished historically from chapels and oratories, which are buildings that are in some respect private, or not public in the widest sense. Church architecture generally somewhat follows standard models, which vary depending upon the date, location, and characteristics of the congregation.  http://vocab.getty.edu/page/aat/300007466  
+||Waterfalls - Perpendicular or very steep descents of the water of a stream. May be used for artificial waterfalls only if highly naturalistic in form and context; otherwise prefer "cascades" or "fountains." http://vocab.getty.edu/page/aat/300008736
+||Restaurants - Buildings housing businesses where meals or refreshments are sold and eaten.  http://vocab.getty.edu/page/aat/300005182  
+||Bridges - Structures spanning and providing passage over waterways, topographic depressions, transportation routes, or similar circulation barriers. http://vocab.getty.edu/page/aat/300007836  
+||Highways - Refers to major, high-speed, high-capacity roads between urban areas. The original meaning of "highways" referred to Roman roads that were raised above the ground level; for this meaning, use "elevated roads."   http://vocab.getty.edu/page/aat/300008220  
+||Mills - Facilities that spin and weave wool into fabric.  http://vocab.getty.edu/page/aat/300006327  
+||Theater - Buildings having a stage or projection screen for the presentation of dramatic performances and providing seating areas for spectators. http://vocab.getty.edu/page/aat/300007117 
+||Historic Houses - Houses with architectural, social, or cultural significance; may or may not be officially designated. http://vocab.getty.edu/page/aat/300008064 
+||Public (relating to property) - The status or condition of a thing, being, or information being open to general observation, view, or knowledge, or of activties existing, performed, or carried out without concealment.http://vocab.getty.edu/page/aat/300444972 
+||Private (relating to property) - The status or condition of a thing, being, or information being available to only a chosen audience, but concealed or safeguarded from general view or knowledge. http://vocab.getty.edu/page/aat/300444973 
+|type|DCMI Type Vocabulary: https://www.dublincore.org/specifications/dublin-core/dcmi-type-vocabulary/2003-02-12/  
+|Verdana format|MIME Types: https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Complete_list_of_MIME_types  
+|language| ISO 639-2 Codes for the Representation of Names and Languages: https://www.loc.gov/standards/iso639-2/php/code_list.php  
+|location|Oregon – Inhabited by Chinook, Tillamook, Yamel, Northern Paiute, Modoc & many others when Spanish & English arrived in 16th cen.; settled by fur merchants in 18th cen.; great influx of settlers from E arrived in mid-19th cen.  http://vocab.getty.edu/page/tgn/7007708 
+||Baker City – city, seat (1868) of Baker county, northeastern Oregon, U.S. It is situated along the Powder River, in Baker Valley, between the Blue Mountains (west) and the Wallowa Mountains (east).  https://www.britannica.com/place/Baker-City 
+||Eugene – Located in W Oregon on Willamette River; settled by Eugene Skinner; arrival of railroad stimulated development as lumber & agricultural center.  http://vocab.getty.edu/page/tgn/7014122 
+||Florence – Florence is a small city at the mouth of the Siuslaw River, on the Oregon coast.  https://en.wikipedia.org/w/index.php?title=Florence,_Oregon&oldid=1153782909 
+||Newport – city, seat (1954) of Lincoln county, western Oregon, U.S. It lies on the north shore of Yaquina Bay at the Pacific Ocean.  https://www.britannica.com/place/Newport-Oregon 
+||Portland - city, seat (1854) of Multnomah county, northwestern Oregon, U.S. The state’s largest city, it lies just south of Vancouver, Washington, on the Willamette River near its confluence with the Columbia River, about 100 miles (160 km) by river from the Pacific Ocean.  https://www.britannica.com/place/Portland-Oregon 
+||Salem - Located in NW Oregon on Willamette river; missionaries sold homesites to finance the Oregon Institute (1842), a religious school for Amerindians which later became Willamette University; town prospered from traffic on the Oregon Trail.   http://vocab.getty.edu/page/tgn/2085479 
+||Seaside – Located in NW Oregon on Pacific Ocean; city named after Seaside House, a historic summer resort built in the 1870s.  https://en.wikipedia.org/w/index.php?title=Seaside,_Oregon&oldid=1154997824 
+||Troutdale – Located in NW Oregon at the confluene of the Sandy and Columbia Rivers; city named after pioneer John Harlow’s trout pond in a dale near his residence.  https://en.wikipedia.org/w/index.php?title=Troutdale,_Oregon&oldid=1152615116 
+||Warrenton – Warrenton is a small, coastal city in Clatsop County, Oregon, United States. Named for D.K. (Daniel Knight) Warren, an early settler, the town is primarily a fishing and logging community. https://en.wikipedia.org/w/index.p/p?title=Warrenton,_Oregon&oldid=1115706934 
+||Wolf Creek – Located in SW Oregon on Wolf Creek; town named for the once abundants wolves in the state. https://en.wikipedia.org/w/index.php?title=Wolf_Creek,_Oregon&oldid=1123215108 
+||Crooked River Gorge – Location in Central Oregon; located around Warm Springs and Smith Rock State Park and eroded by the Crooker River.  https://en.wikipedia.org/w/index.php?title=Crooked_River_Gorge&oldid=1146535745 
+||Oregon Caves National Monument – Located in SW Oregon; a monument established in 1909 to protect a solutional cave within marble rock.  https://en.wikipedia.org/w/index.php?title=Oregon_Caves_National_Monument_and_Preserve&oldid=1139887486 
+||Oregon Coast – Located in W Oregon along the Pacific Ocean.  https://en.wikipedia.org/w/index.php?title=Oregon_Coast&oldid=1153496466 
+||U.S. Route 101 – Located on Oregon coast; highway runs from California border to Washington state line at Columbia River. https://en.wikipedia.org/w/index.php?title=U.S._Route_101_in_Oregon&oldid=1151418139 
+||Baker County – County of Oregon, USA named for Edward Dickinson Baker, a senator from Oregon who was killed at Ball’s Bluff, a battle of the Civil War in Virginia in 1861.  https://en.wikipedia.org/w/index.php?title=Baker_County,_Oregon&oldid=1143614301 
+||Clatsop County – County of Oregon, USA named for the Clatsop tribe of Native Americans who lived along the coast of the Pacific Ocean prior to European settlement.  https://en.wikipedia.org/w/index.php?title=Clatsop_County,_Oregon&oldid=1155356697
+||Jefferson County – County of Oregon, USA named for Mount Jefferson after United States president Thomas Jefferson. https://en.wikipedia.org/w/index.php?title=Jefferson_County,_Oregon&oldid=1150976816 
+||Josephine County – County of Oregon, USA named for Josephine Rollins Ort, daughter of Floyd Rollins a gold prospector. https://en.wikipedia.org/w/index.php?title=Josephine_County,_Oregon&oldid=1154964059 
+||Lane County – County of Oregon, USA named for Joseph Lane, the first governor of the territory. https://en.wikipedia.org/w/index.php?title=Lane_County,_Oregon&oldid=1154958128 
+||Lincoln County – County of Oregon USA named for Abraham Lincoln, 16th president of the United States. https://en.wikipedia.org/w/index.php?title=Lincoln_County,_Oregon&oldid=1155355292 
+||Marion County – County of Oregon USA named to honor Francis Marion, a Continental Army general from South Carolina who served in the American Revolutionary War.  https://en.wikipedia.org/w/index.php?title=Marion_County,_Oregon&oldid=1154959419 
+||Multnomah County – County of Oregon USA named for the Chinookan word for “lower river” an interperative English spelling of ‘Matlnomaq’.  https://en.wikipedia.org/w/index.php?title=Multnomah_County,_Oregon&oldid=1154709406 
+|rights|Rights Statements: https://rightsstatements.org/page/1.0/?language=en  
+|creativecommons|Creative Commons Licenses: https://creativecommons.org/licenses/  
+|| For objects in the public domain you should use this marking within the Creative Commons field: https://creativecommons.org/publicdomain/mark/1.0/  
+
+ 
+
+### Appendix BB: Apparition? 
+
+An incidental observation in one of our objects revealed an anomaly in our “Oregon Caves” object described as the Ghost Chamber. We quickly concluded that an apparition could be the only explanation. Our current hypothesis postulates the unique stereograph photographic process captured a superimposed and bilateral locality. This increased sensitivity to phenomena outside the range of normal or supernormal sensory methods (e.g., sight, hearing, smell) allowed for a special circumstance in which the right technology and right timing recorded this extremely rare event. 
+
+We are, however, ethically certain the ghost has no expectation of privacy. We present this apparition here, in the name of pseudoscience.  
+
+ 
+
+Figure 1: The above image is the result of stereographic photography filtered through multi-aspect and algorithmic methods via computer processes to enhance the image definition. The identity of the person associated with the apparition remains unknown. 
+
+ 
+
+## Works Cited 
+
+Green, Virginia. “Oregon Encyclopedia: Explore - Asahel Bush House” Oregon 	Encyclopedia, The Oregon Historical Society, last updated Sept. 6, 2022, 	https://www.oregonencyclopedia.org/articles/asahel_bush_house/. Accessed 3 June 2023. 
+
+"Pittock Mansion: Our Story - History" Pittock Mansion, Pittock Mansion Society, last updated 2018, www.pittockmansion.org/our-story/history/. Accessed 3 June 2023. 
+
+Thornhill, Kate, Stone, Julia, University of Oregon, University of Idaho Libraries. “Metadata Application Profile (Data Dictionary) Template” Humanities Data Management, LIB410 Week 6, University of Oregon. 
+
+ 
