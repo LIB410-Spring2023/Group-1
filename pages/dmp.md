@@ -55,7 +55,7 @@ Image objects were sourced from Oregon Digital, the National Archives, and the L
 ### Folder Structure: 
 Our collection objects were compiled into SharePoint and available to group members: 
 
-    1. Group1-Objects: The inventory spreadsheet. 
+1. Group1-Objects: The inventory spreadsheet. 
 
 * a. Object Files: Contains .jpg objects
 
