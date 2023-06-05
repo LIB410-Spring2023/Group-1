@@ -62,7 +62,7 @@ Our collection objects were compiled into SharePoint and available to group memb
 
 *         b. Old Object Files: Contains outdated files as a backup. 
 
- 	Each group member was responsible for individual objects in a personal Dropbox.
+Each group member was responsible for individual objects in a personal Dropbox.
 
 
 ### File Naming Convention: 
