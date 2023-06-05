@@ -183,11 +183,7 @@ Objects are viewed as .jpgs and maintained on GitHub, and archival copies provid
 
 An incidental observation in one of our objects revealed an anomaly in our “Oregon Caves” object described as the Ghost Chamber. We quickly concluded an apparition could be the only explanation. Our hypothesis postulates the unique stereograph photographic process captured a superimposed bilateral locality. This increased sensitivity to phenomena outside normal or supernormal sensory ranges (e.g., sight, hearing) allowed a special circumstance for the right technology and right timing to record this extremely rare event. 
 
-We are, however, ethically certain the ghost has no expectation of privacy. We present this apparition here, in the name of pseudoscience.  
-
-![](ghost.png)
-
-Figure 1: The above image is the result of stereographic photography filtered through multi-aspect and algorithmic methods via computer processes to enhance the image definition. The identity of the person associated with the apparition remains unknown. 
+We are, however, ethically certain the ghost has no expectation of privacy. We present this apparition here, in the name of pseudoscience.
 
  
 
