@@ -12,9 +12,9 @@ credits: true
 
 Haunted Locations in Oregon 
 
-<a href="https://github.com/LIB410-Spring2023/group-1/blob/main/_data/group-metadata-file.csv"target="_blank">Metadata</a>  
+Metadata: https://github.com/LIB410-Spring2023/group-1/blob/main/_data/group-metadata-file.csv
 
-<a href="https://github.com/LIB410-Spring2023/group-1/tree/main/objects"target="_blank">Objects</a>  
+Objects: https://github.com/LIB410-Spring2023/group-1/tree/main/objects
 
 The *Haunted Locations in Oregon* digital collection documents haunted locations in Oregon and contains 21 images of Oregon ranging from 1855 to 1977. Locations document Willamette Valley, Southern Oregon, and natural locations that illustrate historic buildings, cemeteries, and other natural landmarks.  
 
