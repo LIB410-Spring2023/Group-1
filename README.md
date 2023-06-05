@@ -1,75 +1,36 @@
-# collectionbuilder-gh
+# Haunted Locations in Oregon
+This digital collection consists of data objects that document reportedly haunted locations in Oregon.
+It was created as a final project for the Humanities Research Data Management class (LIB410) taught by
+Kate Thornhill at the University of Oregon in 2023 Spring term. 
 
-A project to generate a free and simple digital collection site using [GitHub Pages](https://pages.github.com/) given:
+## Course Description
+The Humanities Research Data Management class, sometimes referred to as Humanities Data Management, provided students the theory and practical experience to design a humanities data collection. The course taught students how to collect, process, archive,
+and publish the data which was retrieved from GLAMs (galleries, libraries, archives, and museums). Students created a thematical 
+digital collection acting in the capacity as researchers. Methodologies developed in class focused on technical, legal, ethical, and social aspects of curating the collection. Experience was gained by finding, assessing, organizing, and reformatting data; creating and remediating descriptive metadata; evaluating and determining copyright and licensing; writing a data management plan using the standards set by the National Endowment for the Humanities, and sharing thematic research digital collections using GitHub and CollectionBuilder, an open-source platform.
 
-- a CSV of collection metadata
-- a folder of JPEG images or PDF documents
+## Members of the group project
+Emily Colson - Project Manager
+Jonathan Nelson - Collection Development Manager
+Matt Skeels - Metadata Manager
+Olivia Wilkonson - Object Preservation Manager
 
-Gather your digital objects together and create your metadata using the [CollectionBuilder-GH Metadata Template](https://docs.google.com/spreadsheets/d/1Uv9ytll0hysMOH1j-VL1lZx6PWvc1zf3L35sK_4IuzI/copy). 
-Then click the green "use this template" button above to create your repository, add your metadata and configure the repository to fit your collection and settings.
+## Collection description and website address
+This digital collection is a survey of reportedly haunted locations in Oregon, mostly consisting of photographs of historic buildings and cemeteries. The collection consists of 21 images taken from 1855 to 1977 in several regions of Oregon, including the Willamette Valley, the coast, and Southern Oregon. Locations were designated haunted by personal recollection of folk legends as well as by other Oregonians. Objects were collected through a combination of national and state repositories. The collection offers a different look at a survey of historical places in Oregon by taking into account Oregon’s long history of superstition and folk legends.
 
-See [Getting Started Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information. 
+Our CollectionBuilder repository URL:
+https://lib410-spring2023.github.io/group-1/
 
-View the [demo site](https://collectionbuilder.github.io/collectionbuilder-gh/).
+## Data Management Plan
+The group's Data Management Plan (DMP) documents their data curation methodology, technical expertise and roles,
+file standards and formatting, privacy and security concerns, and data preservation and retention. Two appendices are included: Appendix A is the Metadata Application Profile guidelines, and Appendix B is our tongue-in-cheek research into
+an apparation in one of our data objects. Finally, a works cited section includes our references.
 
-**Note:** 
-Since `collectionbuilder-gh` uses [GitHub Pages](https://pages.github.com/), it is only suitable for small collections, with lower resolution images. GitHub repositories are limited to 1GB.
+The DMP can be accessed at this URL:
+https://lib410-spring2023.github.io/group-1/dmp.html
 
-## Demo CollectionBuilder with our Workshop Tutorial
-
-If you'd like to demo CollectionBuilder, we've made [a step-through tutorial](https://collectionbuilder.github.io/workshop/gh/) using the following spreadsheet and zipped directory. (The tutorial uses items from our [Psychiana Digital Collection](https://www.lib.uidaho.edu/digital/psychiana/), which is worth a visit!)
-
-Metadata is drawn from the following Google Sheet: 
-
-- [Psychiana Digital Collection Metadata](https://docs.google.com/spreadsheets/d/1x48Te3duPAxh53foEihQVKTfCKUjaCCbH7TrMMd_yU4/copy)
-
-Objects are collected in this zip file: 
-
-- [Psychiana Digital Collection Media Files](https://www.lib.uidaho.edu/collectionbuilder/demo-objects.zip) (Includes image files, pdfs, and mp3s)
-
-These files are stored in this [CollectionBuilder-gh Google Drive Folder](https://drive.google.com/drive/folders/1dTO8-3lusaKBdYyauyg_ziVqwLA4Fons?usp=sharing), along with some other metadata sheets and zipped object directories that can be used for other workshops and demonstrations.
-
-## More on CollectionBuilder
-
-`collectionbuilder-gh` is intended as a simple template for hands-on teaching about digital libraries.
-It can be used in a workshop setting to take participants through digitization and metadata creation, to having a live collection site hosted on GitHub.
-
-`collectionbuilder-gh` aims to be well documented and easy to configure by following the example, with the potential to scaffold learning of a multitude of transferable digital and data skills.
-A project in "minimal computing", it provides a depth of learning opportunities, allowing users to take complete ownership over the project and make their work open to the world.
-
-Learn about:
-
-- Git and GitHub basics
-- [Markdown](https://guides.github.com/features/mastering-markdown/), plaintext writing and content creation
-- HTML, CSS, and JS literacy
-- commandline literacy
-- GitHub collaboration and project management
-- [Jekyll](https://jekyllrb.com/) basics
-- working in the Open, open source and open data
-- digital libraries concepts such as "collections as data", minimal computing, data-driven design
-
-> We prefer commonly understood formats (such as CSV spreadsheets over YAML), and convention over configuration (follow the example over learn all the options).
-
-## Features
-
-- [Jekyll](https://jekyllrb.com/) for GitHub Pages 
-- Layout using [Bootstrap 5](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
-- Mapping using [Leaflet.js](http://leafletjs.com/)
-- Tables using [DataTables](https://datatables.net/)
-- Galleries using [spotlight](https://github.com/nextapps-de/spotlight)
-- Simple [lunr](https://lunrjs.com/) search 
-- Rich markup using [Schema.org](http://schema.org) and [Open Graph protocol](http://ogp.me/) standards
-
-## Build a Digital Collection! 
-
-Check out the [CollectionBuilder docs](https://collectionbuilder.github.io/cb-docs/) for how to get started, or visit the [CollectionBuilder home](https://collectionbuilder.github.io/) for more information.
-
-If you are interested in using CollectionBuilder, or are already using it, please drop us a line (**libstatic.uidaho@gmail.com**) since we would love to learn more about it's use in the wild. 
-There are also currently opportunities to [collaborate on CollectionBuilder](https://collectionbuilder.github.io/about.html#the-grant).
-
-## License
-
-CollectionBuilder documentation and general web content is licensed [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/). 
-This license does *NOT* include any objects or images used in digital collections, which may have individually applied licenses described by a "rights" field.
-CollectionBuilder code is licensed [MIT](https://github.com/CollectionBuilder/collectionbuilder-gh/blob/main/LICENSE). 
-This license does not include external dependencies included in the `assets/lib` directory, which are covered by their individual licenses.
+## Lyrics
+"Well the highway is alive tonight
+But nobody's kidding nobody about where it goes
+I'm sitting down here in the campfire light
+With the ghost of old Tom Joad"
+-Bruce Springsteen
