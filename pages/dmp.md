@@ -100,7 +100,7 @@ Objects are publicly available on GitHub as .jpg files, along with the metadata.
 
 Objects are viewed as .jpgs and maintained on GitHub, and archival copies provided for Oregon Digital, the National Archives, and the Library of Congress sources. The Archive Wayback Machine was used to archive object sources. Links are provided in the collection. 
 
-## Appendix A: Metadata Application Profile (Thornhill, et al. 2023) 
+## Appendix A: Metadata Application Profile
 
 |  Metadata Element Name | Metadata Element Display Label  | Metadata Element Obligation  |  Controlled Vocabulary | Metadata Element Definition and Data Standard Requirement  | Example |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@ Objects are viewed as .jpgs and maintained on GitHub, and archival copies provid
 |creativecommons|Creative Commons Licenses: https://creativecommons.org/licenses/  
 || For objects in the public domain you should use this marking within the Creative Commons field: https://creativecommons.org/publicdomain/mark/1.0/  
 
- 
+(Thornhill, et al. 2023) 
 
 ### Appendix B: Apparition? 
 
