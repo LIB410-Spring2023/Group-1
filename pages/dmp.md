@@ -193,10 +193,13 @@ Figure 1: The above image is the result of stereographic photography filtered th
 
 ## Works Cited 
 
-Green, Virginia. “Oregon Encyclopedia: Explore - Asahel Bush House” Oregon 	Encyclopedia, The Oregon Historical Society, last updated Sept. 6, 2022, 	https://www.oregonencyclopedia.org/articles/asahel_bush_house/. Accessed 3 June 2023. 
+Green, Virginia. “Oregon Encyclopedia: Explore - Asahel Bush House” Oregon 	Encyclopedia, The Oregon Historical Society, 
+                 last updated Sept. 6, 2022, 	https://www.oregonencyclopedia.org/articles/asahel_bush_house/. Accessed 3 June 2023. 
 
-"Pittock Mansion: Our Story - History" Pittock Mansion, Pittock Mansion Society, last updated 2018, www.pittockmansion.org/our-story/history/. Accessed 3 June 2023. 
+"Pittock Mansion: Our Story - History" Pittock Mansion, Pittock Mansion Society, last updated 2018, 
+                 www.pittockmansion.org/our-story/history/. Accessed 3 June 2023. 
 
-Thornhill, Kate, Stone, Julia, University of Oregon, University of Idaho Libraries. “Metadata Application Profile (Data Dictionary) Template” Humanities Data Management, LIB410 Week 6, University of Oregon. 
+Thornhill, Kate, Stone, Julia, University of Oregon, University of Idaho Libraries. “Metadata Application Profile (Data Dictionary) Template” 
+                 Humanities Data Management, LIB410 Week 6, University of Oregon. 
 
  
