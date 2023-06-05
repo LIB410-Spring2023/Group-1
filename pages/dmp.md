@@ -55,26 +55,26 @@ Image objects were sourced from Oregon Digital, the National Archives, and the L
 ### Folder Structure: 
 
 Our collection objects were compiled into SharePoint and available to group members: 
-/*:
-    - 1. Group1-Objects: The inventory spreadsheet. 
 
-    * Object Files: Contains .jpg objects
+    1. Group1-Objects: The inventory spreadsheet. 
 
-    * Old Object Files: Contains outdated files as a backup. 
-*/
+*          a. Object Files: Contains .jpg objects
+
+*         b. Old Object Files: Contains outdated files as a backup. 
+
  	Each group member was responsible for individual objects in a personal Dropbox.
 
 
 ### File Naming Convention: 
 
 File names have a “regionname_title_creationdate” format.  Definitions:  
-/*:
-    Region Name: City, County, or Region of image. Most originate from cities.  
 
-    Title: Describes file content.  
+*     Region Name: City, County, or Region of image. Most originate from cities.  
 
-    Creation Date: Object creation date. Displays a single year or a YYYYMMDDD format. 
-*/
+*     Title: Describes file content.  
+
+*     Creation Date: Object creation date. Displays a single year or a YYYYMMDDD format. 
+
 ## Privacy and Security 
 
 ### Privacy: 
