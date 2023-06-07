@@ -10,7 +10,9 @@ credits: true
 
 
 
-{% include feature/jumbotron.html objectid="https://lib410-spring2023.github.io/group-1/objects/waldport_highway101_1967.jpg" %}
+
+
+{% include feature/jumbotron.html objectid="https://lib410-spring2023.github.io/group-1/objects/cavejunction_oregoncavesghostchamber_1889.jpg" %}
 
 {% include feature/nav-menu.html sections="About the Collection;" %}
 
@@ -28,9 +30,9 @@ This collection was created Spring term 2023 for LIB 410 under the instruction o
 -  *Jonathan Nelson*, Collection Development Manager
 -  *Matt Skeels*, Metadata Manager
 
-### Usage
+### Ownership
 
-
+We do not claim ownership over the objects in this collection. Objects are owned by their creators or source repositories and are used in this collection for educational purposes.
 
 ### Thank You
 
