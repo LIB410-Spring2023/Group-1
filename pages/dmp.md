@@ -102,7 +102,7 @@ Objects are viewed as .jpgs and maintained on GitHub, and archival copies provid
 
 ## Appendix A: Metadata Application Profile
 
-{% include feature/pdf.html objectid="map_group1" width="50" %}
+[MAP pdf](/objects/map_group1.pdf)
 
 (Thornhill, et al. 2023) 
 
