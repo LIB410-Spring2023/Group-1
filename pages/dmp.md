@@ -102,7 +102,7 @@ Objects are viewed as .jpgs and maintained on GitHub, and archival copies provid
 
 ## Appendix A: Metadata Application Profile
 
-[MAP pdf](/objects/map_group1.pdf)
+[MAP pdf](https://github.com/LIB410-Spring2023/group-1/blob/4de8674d862a3d3d71b730c97c78060a8c7f52d4/objects/map_group1.pdf)
 
 (Thornhill, et al. 2023) 
 
